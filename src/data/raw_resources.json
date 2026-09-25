@@ -720,5 +720,11 @@
     "url": "https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive",
     "description": "Open database of real-world AI agent security incidents, one sourced record each, that flags confirmed harm and AI involvement separately from researcher demonstrations; JSON/CSV exports under CC BY 4.0.",
     "category": "Communities"
+  },
+  {
+    "title": "SUNGLASSES",
+    "url": "https://github.com/sunglasses-dev/sunglasses",
+    "description": "Open-source local input firewall for AI agents that scans text, files, PDFs, images and QR codes for prompt injection, credential leaks and data exfiltration with 1,554 patterns across 118 categories, shipped as a CLI, Python API, MCP server and Claude Code hook.",
+    "category": "Tools"
   }
 ]
